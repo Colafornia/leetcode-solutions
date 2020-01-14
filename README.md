@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-57/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-58/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -34,6 +34,7 @@
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.html) |
 | 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/128.LongestConsecutiveSequence.html) |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.html) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/141.LinkedListCycle.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/151.ReverseWordsInAString.html) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/153.FindMinimuminRotatedSortedArray.html) |
