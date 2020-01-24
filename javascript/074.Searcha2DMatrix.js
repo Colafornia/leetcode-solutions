@@ -6,10 +6,10 @@
  * @return {boolean}
  */
 var searchMatrix = function (matrix, target) {
-    const rowLength = matrix.length
-    if (!rowLength) {
+    if (!matrix.length || !matrix[0].length) {
         return false
     }
+    const rowLength = matrix.length
     const columnLength = matrix[0].length
     let col = columnLength - 1
     let row = 0
@@ -31,10 +31,10 @@ var searchMatrix2 = function (matrix, target) {
     // binary search
     // n * m matrix convert to an array => matrix[x][y] => a[x * m + y]
     // an array convert to n * m matrix => a[x] =>matrix[x / m][x % m];
-    const rowLength = matrix.length
-    if (!rowLength || !matrix[0].length) {
+    if (!matrix.length || !matrix[0].length) {
         return false
     }
+    const rowLength = matrix.length
     const columnLength = matrix[0].length
     let low = 0
     let high = rowLength * columnLength - 1
