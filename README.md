@@ -23,6 +23,7 @@
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/069.Sqrtx.html) |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/070.ClimbingStairs.html) |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/071.SimplifyPath.html) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/074.Searcha2DMatrix.html) |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/093.RestoreIPAddresses.html) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/102.BinaryTreeLevelOrderTraversal.html) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.html) |
