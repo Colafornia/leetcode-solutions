@@ -1,0 +1,57 @@
+Arguments: 
+  /Users/wangyilin/.nvm/versions/node/v10.15.1/bin/node /Users/wangyilin/.nvm/versions/node/v10.15.1/bin/yarn add -D @vuepress/plugin-google-analytics
+
+PATH: 
+  /Users/wangyilin/.autojump/bin:/Users/wangyilin/.nvm/versions/node/v10.15.1/bin:/Users/wangyilin/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/go/bin
+
+Yarn version: 
+  1.19.2
+
+Node version: 
+  10.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EINVAL: invalid argument, unlink '/Users/wangyilin/per/leetcode-solutions/node_modules/@webpack-contrib/schema-utils/node_modules/strip-ansi'
+
+npm manifest: 
+  {
+    "name": "leetcode-solutions",
+    "version": "1.0.0",
+    "description": "JavaScript solutions for leetcode",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha 'test/*.test.js'",
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Colafornia/leetcode-solutions.git"
+    },
+    "keywords": [
+      "leetcode",
+      "javascript"
+    ],
+    "author": "Colafornia",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Colafornia/leetcode-solutions/issues"
+    },
+    "homepage": "https://github.com/Colafornia/leetcode-solutions#readme",
+    "dependencies": {
+      "mocha": "^5.2.0",
+      "should": "^13.2.3"
+    },
+    "devDependencies": {
+      "vuepress": "^0.14.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
