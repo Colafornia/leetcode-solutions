@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-63/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-64/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -29,6 +29,7 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/102.BinaryTreeLevelOrderTraversal.html) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.html) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/105.ConstructBinaryTreefromPreorderandInorderTraversal.html) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/106.ConstructBinaryTreefromInorderandPostorderTraversal.html) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/107.BinaryTreeLevelOrderTraversalII.html) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/108.ConvertSortedArraytoBinarySearchTree.html) |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/112.PathSum.html) |
