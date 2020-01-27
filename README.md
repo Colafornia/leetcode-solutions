@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-69/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-70/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -18,6 +18,7 @@
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/033.SearchinRotatedSortedArray.html) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/043.MultiplyStrings.html) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/051.N-Queens.html) |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/053.MaximumSubarray.html) |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/054.SpiralMatrix.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |
