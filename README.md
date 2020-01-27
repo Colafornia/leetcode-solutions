@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-67/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-68/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -71,3 +71,4 @@
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.html) |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/671.SecondMinimumNodeInaBinaryTree.html) |
 | 695 | [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/695.MaxAreaofIsland.html) |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/1137.N-thTribonacciNumber.html) |
