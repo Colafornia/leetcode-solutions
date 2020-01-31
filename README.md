@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-77/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-78/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -76,6 +76,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/509.FibonacciNumber.html) |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.html) |
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.html) |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/668.KthSmallestNumberinMultiplicationTable.html) |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/671.SecondMinimumNodeInaBinaryTree.html) |
 | 695 | [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/695.MaxAreaofIsland.html) |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/842.SplitArrayintoFibonacciSequence.html) |
