@@ -1,16 +1,21 @@
-// https://leetcode-cn.com/problems/remove-element/
+// https://leetcode.com/problems/remove-element/
 /**
  * @param {number[]} nums
  * @param {number} val
  * @return {number}
  */
 var removeElement = function(nums, val) {
-  for (var i = nums.length; i >= 0; i--) {
-    if (nums[i] == val) {
-      nums.splice(i, 1)
+  let len = nums.length
+  let i = 0
+  while (i < len) {
+    if (nums[i] === val) {
+      nums[i] = nums[len - 1]
+      len--
+    } else {
+      i++
     }
   }
-  return nums.length;
+  return len
 };
 
 module.exports = removeElement;
