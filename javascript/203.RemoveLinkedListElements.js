@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/remove-linked-list-elements/
+// https://leetcode.com/problems/remove-linked-list-elements/
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -11,21 +11,21 @@
  * @param {number} val
  * @return {ListNode}
  */
-var removeElements = function(head, val) {
-    if (!head) return head;
-    var current = head;
-    var pre = null;
+var removeElements = function (head, val) {
+    let current = head
+    let pre = null
     while (current) {
         if (current.val === val) {
             if (pre) {
-                pre.next = current.next;
+                pre.next = current.next
             } else {
-                head = head.next;
+                head = head.next
             }
         } else {
-            pre = current;
+            // if current.val === val, then delete current, no need to move pre
+            pre = current
         }
-        current = current.next;
+        current = current.next
     }
-    return head;
+    return head
 };
