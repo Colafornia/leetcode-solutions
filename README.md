@@ -53,7 +53,7 @@
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.html) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/202.HappyNumber.html) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/203.RemoveLinkedListElements.html) |
-| 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.html) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.html) |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/215.KthLargestElementinanArray.html) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/230.KthSmallestElementinaBST.html) |
 | 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/232.ImplementQueueusingStacks.html) |

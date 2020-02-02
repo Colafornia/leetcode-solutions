@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/reverse-linked-list/
+// https://leetcode.com/problems/reverse-linked-list/
 
 /**
  * Definition for singly-linked list.
@@ -15,38 +15,37 @@
 // 方法1： 三指针遍历链表
 // 先将头元素的next指向空
 // 用 next 变量存储第三个元素避免链表断掉
-var reverseList1 = function(head) {
-    if (!head || !head.next) {
-        return head;
+var reverseList1 = function (head) {
+    let newHead = null
+    let current = head
+    let pre = null
+    while (current) {
+        let next = current.next
+        if (!next) {
+            newHead = current
+        }
+        current.next = pre
+        pre = current
+        current = next
     }
-    var first = head;
-    var cur = head.next;
-    var next = null;
-    head.next = null;
-    while(cur) {
-        next = cur.next;
-        cur.next = first;
-        first = cur;
-        cur = next;
-    }
-    return first;
+    return newHead
 };
 // 方法2：递归
 // 元素进行交替处理的思路与1类似，实现方式不同
-var reverseList2 = function(head) {
-    return reserveRecursivly(null, head);
+var reverseList2 = function (head) {
+    return reverseHelper(null, head)
 };
-var reserveRecursivly = function (pre, cur) {
-    if (!cur) {
-        return cur;
+
+var reverseHelper = function (pre, current) {
+    if (!current) {
+        return current
     }
-    if (!cur.next) {
-        cur.next = pre;
-        return cur;
+    let next = current.next
+    current.next = pre
+    pre = current
+    if (!next) {
+        return current
     }
-    var next = cur.next;
-    cur.next = pre;
-    pre = cur;
-    cur = next;
-    return reserveRecursivly(pre, cur);
+    current = next
+    return reverseHelper(pre, current)
 }
