@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-80/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-81/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -13,6 +13,7 @@
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/019.RemoveNthNodeFromEndofList.html) |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/020.ValidParentheses.html) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/021.MergeTwoSortedLists.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/026.RemoveDuplicatesfromSortedArray.html) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
