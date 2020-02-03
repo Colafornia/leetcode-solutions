@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-81/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-82/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -31,6 +31,7 @@
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/070.ClimbingStairs.html) |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/071.SimplifyPath.html) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/074.Searcha2DMatrix.html) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/088.MergeSortedArray.html) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/092.ReverseLinkedListII.html) |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/093.RestoreIPAddresses.html) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/102.BinaryTreeLevelOrderTraversal.html) |
