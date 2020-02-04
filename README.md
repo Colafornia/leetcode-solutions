@@ -16,7 +16,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/021.MergeTwoSortedLists.html) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/023.MergekSortedLists.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/026.RemoveDuplicatesfromSortedArray.html) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/026.RemoveDuplicatesfromSortedArray.html) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/033.SearchinRotatedSortedArray.html) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/034.FindFirstandLastPositionofElementinSortedArray.html) |
