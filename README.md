@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-83/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-84/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -27,6 +27,7 @@
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/053.MaximumSubarray.html) |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/054.SpiralMatrix.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/062.UniquePaths.html) |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/066.PlusOne.html) |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/069.Sqrtx.html) |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/070.ClimbingStairs.html) |
