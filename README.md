@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-88/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-89/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -80,6 +80,7 @@
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/378.KthSmallestElementinaSortedMatrix.html) |
 | 404 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/404.SumofLeftLeaves.html) |
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/415.AddStrings.html) |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/416.PartitionEqualSubsetSum.html) |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/445.AddTwoNumbersII.html) |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/501.FindModeinBinarySearchTree.html) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/509.FibonacciNumber.html) |
