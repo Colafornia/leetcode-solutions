@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-87/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-88/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -83,6 +83,7 @@
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/445.AddTwoNumbersII.html) |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/501.FindModeinBinarySearchTree.html) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/509.FibonacciNumber.html) |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/518.CoinChange2.html) |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.html) |
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.html) |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/668.KthSmallestNumberinMultiplicationTable.html) |
