@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-89/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-90/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -53,6 +53,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/141.LinkedListCycle.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/147.InsertionSortList.html) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/148.SortList.html) |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/151.ReverseWordsInAString.html) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/153.FindMinimuminRotatedSortedArray.html) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/154.FindMinimuminRotatedSortedArrayII.html) |
