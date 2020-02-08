@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-91/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-92/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -94,4 +94,5 @@
 | 695 | [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/695.MaxAreaofIsland.html) |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/842.SplitArrayintoFibonacciSequence.html) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/852.PeakIndexinaMountainArray.html) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/876.MiddleoftheLinkedList.html) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/1137.N-thTribonacciNumber.html) |
