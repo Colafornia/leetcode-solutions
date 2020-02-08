@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-90/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-91/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -51,6 +51,7 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/128.LongestConsecutiveSequence.html) |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.html) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/141.LinkedListCycle.html) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/142.LinkedListCycleII.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/147.InsertionSortList.html) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/148.SortList.html) |
