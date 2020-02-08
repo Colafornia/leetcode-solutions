@@ -3,7 +3,8 @@
  * @param {number} n
  * @return {boolean}
  */
-var isHappy = function (n) {
+// HashTable
+ var isHappy = function (n) {
     if (n < 1) {
         return false
     }
@@ -20,3 +21,30 @@ var isHappy = function (n) {
     }
     return true
 };
+
+// Two Pointers
+var isHappy2 = function (n) {
+    if (n < 1) {
+        return false
+    }
+    let fast = n
+    let slow = n
+    while (fast !== 1) {
+        fast = calculateSum(calculateSum(fast))
+        slow = calculateSum(slow)
+        if (fast === slow && fast !== 1) {
+            return false
+        }
+    }
+    return true
+};
+
+var calculateSum = function (n) {
+    let sum = 0
+    while (n) {
+        let tmp = n % 10
+        sum += tmp * tmp
+        n = Math.floor(n / 10)
+    }
+    return sum;
+}
