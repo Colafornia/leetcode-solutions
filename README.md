@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-92/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-93/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -76,6 +76,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/283.MoveZeroes.html) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/287.FindtheDuplicateNumber.html) |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/322.CoinChange.html) |
+| 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/325.MaximumSizeSubarraySumEqualsk.html) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/347.TopKFrequentElements.html) |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/349.IntersectionofTwoArrays.html) |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/350.IntersectionofTwoArraysII.html) |
