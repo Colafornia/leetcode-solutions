@@ -24,7 +24,7 @@
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/043.MultiplyStrings.html) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/051.N-Queens.html) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/050.Pow(x,n).html) |
-| 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/053.MaximumSubarray.html) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/053.MaximumSubarray.html) |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/054.SpiralMatrix.html) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/055.JumpGame.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |

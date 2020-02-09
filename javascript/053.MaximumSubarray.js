@@ -1,26 +1,16 @@
-// https://leetcode-cn.com/problems/maximum-subarray/
+// https://leetcode.com/problems/maximum-subarray/
 
 /**
  * @param {number[]} nums
  * @return {number}
  */
-var maxSubArray = function(nums) {
-  var curSum = 0;
-  var max = -Infinity;
-  var len = nums.length;
-  if (!len) {
-      return 0;
-  }
-  if (len === 1) {
-      return nums[0];
-  }
-  for (var i = 0; i < len; i++) {
-      if (curSum < 0) {
-          curSum = nums[i];
-      } else {
-          curSum += nums[i];
-      }
-      max = Math.max(curSum, max);
-  }
-  return max;
+var maxSubArray = function (nums) {
+    let dp = new Array(nums.length)
+    dp[0] = nums[0]
+    let max = dp[0]
+    for (let i = 1; i < nums.length; i++) {
+        dp[i] = nums[i] + (dp[i - 1] > 0 ? dp[i - 1] : 0);
+        max = Math.max(max, dp[i]);
+    }
+    return max
 };
