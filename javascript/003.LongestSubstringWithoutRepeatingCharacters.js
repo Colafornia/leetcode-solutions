@@ -23,6 +23,7 @@ var lengthOfLongestSubstring1 = function (s) {
     return ans;
 };
 
+// two pointers
 var lengthOfLongestSubstring2 = function (s) {
     if (s.length < 2) {
         return s.length
@@ -35,6 +36,28 @@ var lengthOfLongestSubstring2 = function (s) {
         // so j will be the pointer from the start of new subarray
         cache[s.charAt(i)] = i + 1
         max = Math.max(max, i - j + 1)
+    }
+    return max
+};
+
+// sliding window
+var lengthOfLongestSubstring3 = function (s) {
+    if (s.length < 2) {
+        return s.length
+    }
+    let max = 0;
+    let cache = new Map()
+    let i = 0
+    let j = 0
+    while (i < s.length && j < s.length) {
+        if (!cache.has(s.charAt(j))) {
+            cache.set(s.charAt(j), true)
+            j++
+            max = Math.max(max, j - i)
+        } else {
+            cache.delete(s.charAt(i))
+            i++
+        }
     }
     return max
 };
