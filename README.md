@@ -6,7 +6,7 @@
 | ------| ------ | ------ |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/002.AddTwoNumbers.html) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/003.LongestSubstringWithoutRepeatingCharacters.html) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/003.LongestSubstringWithoutRepeatingCharacters.html) |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/007.ReverseInteger.html) |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/009.PalindromeNumber.html) |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/014.LongestCommonPrefix.html) |
