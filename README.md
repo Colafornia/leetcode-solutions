@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-95/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-96/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -22,8 +22,8 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/034.FindFirstandLastPositionofElementinSortedArray.html) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/035.SearchInsertPosition.html) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/043.MultiplyStrings.html) |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/051.N-Queens.html) |
-| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/050.Pow(x,n).html) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/050.Pow(x,n).html) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/051.N-Queens.html) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/053.MaximumSubarray.html) |
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/054.SpiralMatrix.html) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/055.JumpGame.html) |
@@ -59,6 +59,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/153.FindMinimuminRotatedSortedArray.html) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/154.FindMinimuminRotatedSortedArrayII.html) |
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/155.MinStack.html) |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/159.LongestSubstringwithAtMostTwoDistinctCharacters.html) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/162.FindPeakElement.html) |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.html) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/202.HappyNumber.html) |
