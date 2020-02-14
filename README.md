@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-98/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-99/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -63,6 +63,7 @@
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/162.FindPeakElement.html) |
 | 167 | [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/167.TwoSumII.html) |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.html) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/200.NumberofIslands.html) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/202.HappyNumber.html) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/203.RemoveLinkedListElements.html) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.html) |
