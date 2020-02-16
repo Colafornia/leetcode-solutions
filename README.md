@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-103/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-104/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
@@ -35,6 +35,7 @@
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/071.SimplifyPath.html) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/074.Searcha2DMatrix.html) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/080.RemoveDuplicatesfromSortedArrayII.html) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/082.RemoveDuplicatesfromSortedListII.html) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/083.RemoveDuplicatesfromSortedList.html) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/088.MergeSortedArray.html) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/092.ReverseLinkedListII.html) |
