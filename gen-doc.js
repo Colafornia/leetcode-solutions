@@ -10,8 +10,11 @@ description: I've solved ${files.length} / 1138 problems
 footer: MIT Licensed | Copyright © 2018-present Colafornia
 ---`
   solutionFiles = files;
-  console.log('all solutions:', files);
-  genHomeContent(content);
+  fs.readdir('./python/', (err, pyFiles) => {
+    if (err) throw err;
+    solutionFiles = solutionFiles.concat(pyFiles)
+    genHomeContent(content);
+  })
 })
 
 const genHomeContent = (content) => {
@@ -26,10 +29,10 @@ const genSolutionDocs = () => {
   solutionFiles.forEach((fileName) => {
     const content = `# ${fileName.slice(0, -3)}
 
-<<< @/javascript/${fileName}{0}`
-    fs.writeFile(`docs/source/${fileName.slice(0, -2) + 'md'}`, content, (err) => {
+<<< @/${fileName.slice(-2) === 'py' ? 'python' : 'javascript'}/${fileName}{0}`
+    fs.writeFile(`docs/source/${fileName + '.md'}`, content, (err) => {
       if (err) throw err;
-      console.log(`${fileName.slice(0, -2) + 'md'} has been saved!`);
+      console.log(`${fileName + '.md'} has been saved!`);
     })
   })
 }
