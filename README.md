@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-106/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-107/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -30,6 +30,7 @@
 | 54 | [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/054.SpiralMatrix.js.html) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/055.JumpGame.js.html) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/056.MergeIntervals.js.html) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/057.InsertInterval.js.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.js.html) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/062.UniquePaths.js.html) |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/066.PlusOne.js.html) |
