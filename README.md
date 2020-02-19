@@ -42,7 +42,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/082.RemoveDuplicatesfromSortedListII.js.html) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/083.RemoveDuplicatesfromSortedList.js.html) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/088.MergeSortedArray.js.html) |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/092.ReverseLinkedListII.js.html) |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/092.ReverseLinkedListII.js.html)  [Python](https://blog.colafornia.me/leetcode-solutions/source/092.ReverseLinkedListII.py.html) |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/093.RestoreIPAddresses.js.html) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/102.BinaryTreeLevelOrderTraversal.js.html) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.js.html) |
