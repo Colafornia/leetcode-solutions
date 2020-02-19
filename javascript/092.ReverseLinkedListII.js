@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/reverse-linked-list-ii/
 
+// https://leetcode.com/problems/reverse-linked-list-ii/
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -17,25 +19,22 @@ var reverseBetween = function (head, m, n) {
     if (m === n || !head) {
         return head
     }
-    let fakeHead = new ListNode(null)
-    fakeHead.next = head
-    let count = 1
-    let prev = fakeHead
-    let current = fakeHead.next
-    while (count < m) {
-        prev = current
-        current = current.next
-        count++
+    let dummy = new ListNode(null)
+    dummy.next = head
+    let pre = dummy
+    let i = 1
+    while (i < m) {
+        pre = pre.next
+        i++
     }
-    let first = prev
-    while (count <= n) {
-        let next = current.next
-        current.next = prev
-        prev = current
-        current = next
-        count++
+    let current = pre.next
+    let then = current.next
+    while (i < n) {
+        current.next = then.next
+        then.next = pre.next
+        pre.next = then
+        then = current.next
+        i++
     }
-    first.next.next = current
-    first.next = prev
-    return fakeHead.next
+    return dummy.next
 };
