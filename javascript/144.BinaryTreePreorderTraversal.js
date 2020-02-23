@@ -29,7 +29,7 @@ var preorderTraversal = function (root) {
 };
 
 // similar to method 1
-var preorderTraversal2 = function(root) {
+var preorderTraversal2 = function (root) {
     let ans = []
     let toVisit = []
     let current = root
@@ -40,6 +40,27 @@ var preorderTraversal2 = function(root) {
             current = current.left
         } else {
             current = toVisit.pop()
+        }
+    }
+    return ans
+};
+
+// recursive thinking
+var preorderTraversal3 = function (root) {
+    if (!root) {
+        return []
+    }
+    let ans = []
+    let toVisit = []
+    toVisit.push(root)
+    while (toVisit.length) {
+        const node = toVisit.pop()
+        ans.push(node.val)
+        if (node.right) {
+            toVisit.push(node.right)
+        }
+        if (node.left) {
+            toVisit.push(node.left)
         }
     }
     return ans

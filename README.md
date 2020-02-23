@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-113/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-114/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -61,6 +61,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/141.LinkedListCycle.js.html) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/142.LinkedListCycleII.js.html) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/144.BinaryTreePreorderTraversal.js.html) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/145.BinaryTreePostorderTraversal.js.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.js.html) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/147.InsertionSortList.js.html) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/148.SortList.js.html) |
