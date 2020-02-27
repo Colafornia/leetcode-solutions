@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-119/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-120/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -47,6 +47,7 @@
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/093.RestoreIPAddresses.js.html) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/094.BinaryTreeInorderTraversal.js.html) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/096.UniqueBinarySearchTrees.js.html) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/098.ValidateBinarySearchTree.js.html) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/101.SymmetricTree.js.html) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/102.BinaryTreeLevelOrderTraversal.js.html) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.js.html) |
