@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-121/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-122/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -59,6 +59,7 @@
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/114.FlattenBinaryTreetoLinkedList.js.html) |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/120.Triangle.js.html) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/121.BestTimetoBuyandSellStock.js.html) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/124.BinaryTreeMaximumPathSum.js.html) |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.js.html) |
 | 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/128.LongestConsecutiveSequence.js.html) |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.js.html) |
