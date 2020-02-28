@@ -56,6 +56,7 @@
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/107.BinaryTreeLevelOrderTraversalII.js.html) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/108.ConvertSortedArraytoBinarySearchTree.js.html) |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/112.PathSum.js.html) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/114.FlattenBinaryTreetoLinkedList.js.html) |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/120.Triangle.js.html) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/121.BestTimetoBuyandSellStock.js.html) |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.js.html) |
