@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
+// https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 /**
  * Definition for a binary tree node.
@@ -11,22 +11,23 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrder = function(root) {
-  var ans = [];
-  if (!root) {
-      return ans;
-  }
-  var nodes = [root];
-  while(nodes.length) {
-      var layer = [];
-      var nextNodes = [];
-      nodes.forEach((node) => {
-          layer.push(node.val);
-          if(node.left) nextNodes.push(node.left);
-          if(node.right) nextNodes.push(node.right);
-      })
-      ans.push(layer);
-      nodes = nextNodes;
-  }
-  return ans;
+var levelOrder = function (root) {
+    let ans = []
+    let layer = []
+    if (!root) {
+        return ans
+    }
+    layer.push(root)
+    while (layer.length) {
+        let layerNodes = []
+        let newLayer = []
+        layer.forEach((node) => {
+            layerNodes.push(node.val)
+            node.left && newLayer.push(node.left)
+            node.right && newLayer.push(node.right)
+        })
+        ans.push(layerNodes)
+        layer = newLayer
+    }
+    return ans
 };
