@@ -29,3 +29,23 @@ var hasPathSum = function (root, sum) {
     }
     return Boolean(leftResult || rightResult);
 };
+
+var hasPathSum2 = function (root, sum) {
+    if (!root) {
+        return false
+    }
+    let ans = false
+    var dfs = function (node, sum) {
+        if (!node.left && !node.right && node.val === sum) {
+            ans = true
+        }
+        if (node.left) {
+            dfs(node.left, sum - node.val)
+        }
+        if (node.right) {
+            dfs(node.right, sum - node.val)
+        }
+    }
+    dfs(root, sum)
+    return ans
+};
