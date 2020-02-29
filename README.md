@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-122/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-123/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -113,6 +113,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/509.FibonacciNumber.js.html) |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/518.CoinChange2.js.html) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/540.SingleElementinaSortedArray.js.html) |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/543.DiameterofBinaryTree.js.html) |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.js.html) |
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.js.html) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/572.SubtreeofAnotherTree.js.html) |
