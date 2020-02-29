@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-123/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-124/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -105,6 +105,7 @@
 | 404 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/404.SumofLeftLeaves.js.html) |
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/415.AddStrings.js.html) |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/416.PartitionEqualSubsetSum.js.html) |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/437.PathSumIII.js.html) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/438.FindAllAnagramsinaString.js.html) |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/445.AddTwoNumbersII.js.html) |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/450.DeleteNodeinaBST.js.html) |

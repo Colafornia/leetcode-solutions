@@ -1,0 +1,28 @@
+// https://leetcode.com/problems/path-sum-iii/
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @param {number} sum
+ * @return {number}
+ */
+var pathSum = function (root, sum) {
+    if (!root) {
+        return 0
+    }
+    return pathSumFrom(root, sum) + pathSum(root.left, sum) + pathSum(root.right, sum)
+};
+
+var pathSumFrom = function (node, sum) {
+    if (!node) {
+        return 0
+    }
+    const cur = node.val === sum ? 1 : 0
+    return cur + pathSumFrom(node.left, sum - node.val) + pathSumFrom(node.right, sum - node.val)
+}
