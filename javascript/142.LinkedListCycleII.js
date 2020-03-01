@@ -12,7 +12,50 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
+// common method
 var detectCycle = function (head) {
+    let fast = head
+    let slow = head
+    let cyclePerimeter = 0
+    // detect the cycle whether exists
+    while (fast && fast.next) {
+        fast = fast.next.next
+        slow = slow.next
+        // there is a cycle
+        // get the perimeter of cycle
+        if (fast === slow) {
+            slow = slow.next
+            cyclePerimeter++
+            while (slow !== fast) {
+                slow = slow.next
+                cyclePerimeter++
+            }
+            break
+        }
+    }
+    if (!cyclePerimeter) {
+        return null
+    }
+    // rerun
+    // fast runs perimeter distance first
+    // then slow runs
+    // they will meet at the connect point
+    // slow : run x
+    // fast : run perimeter + x
+    fast = head
+    slow = head
+    while (cyclePerimeter) {
+        fast = fast.next
+        cyclePerimeter--
+    }
+    while (fast != slow) {
+        fast = fast.next
+        slow = slow.next
+    }
+    return slow
+};
+var detectCycle2 = function (head) {
     let fast = head
     let slow = head
     while (fast && fast.next) {
