@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-125/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-126/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -33,6 +33,7 @@
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/057.InsertInterval.js.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.js.html) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/062.UniquePaths.js.html) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/064.MinimumPathSum.js.html) |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/065.ValidNumber.js.html) |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/066.PlusOne.js.html) |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/069.Sqrtx.js.html) |
