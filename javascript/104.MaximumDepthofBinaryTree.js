@@ -11,15 +11,13 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var max;
-
-function depthPlus(root, depth) {
-  if (!root) {
-    // not exist, update max
-    max = Math.max(max, depth);
-    return;
+var maxDepth = function(root, depth) {
+  if (!depth) {
+    depth = 0
   }
-  // there node exist, depth plus one
-  depthPlus(root.left, depth + 1);
-  depthPlus(root.right, depth + 1);
-}
+  if (!root) {
+    return depth
+  }
+  return  Math.max(maxDepth(root.left, depth + 1), maxDepth(root.right, depth + 1))
+};
+
