@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-131/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-132/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -83,6 +83,7 @@
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/162.FindPeakElement.js.html) |
 | 167 | [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/find-peak-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/167.TwoSumII.js.html) |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.js.html) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/198.HouseRobber.js.html) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/199.BinaryTreeRightSideView.js.html) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/200.NumberofIslands.js.html) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/202.HappyNumber.js.html) |
