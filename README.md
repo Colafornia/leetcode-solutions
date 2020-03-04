@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-130/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-131/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -103,6 +103,7 @@
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/287.FindtheDuplicateNumber.js.html) |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/322.CoinChange.js.html) |
 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/325.MaximumSizeSubarraySumEqualsk.js.html) |
+| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/337.HouseRobberIII.js.html) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/347.TopKFrequentElements.js.html) |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/349.IntersectionofTwoArrays.js.html) |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/350.IntersectionofTwoArraysII.js.html) |
