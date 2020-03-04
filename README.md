@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-132/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-133/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -90,6 +90,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/203.RemoveLinkedListElements.js.html) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.js.html) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/209.MinimumSizeSubarraySum.js.html) |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/213.HouseRobberII.js.html) |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/215.KthLargestElementinanArray.js.html) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/226.InvertBinaryTree.js.html) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/230.KthSmallestElementinaBST.js.html) |
