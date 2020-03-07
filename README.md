@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-135/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-136/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -101,6 +101,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/235.LowestCommonAncestorofaBinarySearchTree.js.html) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/236.LowestCommonAncestorofaBinaryTree.js.html) |
 | 237 | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/237.DeleteNodeinaLinkedList.js.html) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/239.SlidingWindowMaximum.js.html) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/240.Searcha2DMatrixII.js.html) |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/263.UglyNumber.js.html) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/283.MoveZeroes.js.html) |
