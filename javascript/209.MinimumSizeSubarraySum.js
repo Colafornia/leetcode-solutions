@@ -6,24 +6,21 @@
  * @return {number}
  */
 var minSubArrayLen = function (s, nums) {
-    if (!nums || nums.length == 0) {
+    if (!nums || !nums.length) {
         return 0
     }
-
-    let i = 0
-    let j = 0
+    let ans = Number.MAX_VALUE
+    let begin = 0
+    let end = 0
     let sum = 0
-    let min = Number.MAX_VALUE
-
-    while (j < nums.length) {
-        sum += nums[j]
+    while (end < nums.length) {
+        sum += nums[end]
         while (sum >= s) {
-            min = Math.min(min, j - i + 1)
-            sum = sum - nums[i]
-            i++
+            ans = Math.min(ans, end - begin + 1)
+            sum = sum - nums[begin]
+            begin++
         }
-        j++
+        end++
     }
-
-    return min == Number.MAX_VALUE ? 0 : min;
+    return ans === Number.MAX_VALUE ? 0 : ans
 };
