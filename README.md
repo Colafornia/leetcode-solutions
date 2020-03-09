@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-137/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-138/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -130,6 +130,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.js.html) |
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.js.html) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/572.SubtreeofAnotherTree.js.html) |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/560.SubarraySumEqualsK.js.html) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/617.MergeTwoBinaryTrees.js.html) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/653.TwoSumIV.js.html) |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/668.KthSmallestNumberinMultiplicationTable.js.html) |
