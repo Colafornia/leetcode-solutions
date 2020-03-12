@@ -1,5 +1,5 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-143/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-144/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
 [![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 [![Language](https://img.shields.io/badge/Python-v3-blue)](https://www.python.org/)
 
@@ -45,6 +45,7 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/074.Searcha2DMatrix.js.html) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/075.SortColors.js.html) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/076.MinimumWindowSubstring.js.html) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/078.Subsets.js.html) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/080.RemoveDuplicatesfromSortedArrayII.js.html) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/082.RemoveDuplicatesfromSortedListII.js.html) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/083.RemoveDuplicatesfromSortedList.js.html) |
