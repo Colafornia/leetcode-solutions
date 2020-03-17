@@ -1,38 +1,34 @@
-// https://leetcode-cn.com/problems/3sum/
+// https://leetcode.com/problems/3sum/
 
 /**
  * @param {number[]} nums
  * @return {number[][]}
  */
-var threeSum = function(nums) {
-  nums.sort((a, b) => a - b);
+var threeSum = function (nums) {
+  nums.sort((a, b) => a - b)
   let ans = []
-  let len = nums.length
-  for (let i = 0; i < len; i++ ) {
+  for (let i = 0; i < nums.length; i++) {
     if (i && nums[i] === nums[i - 1]) continue
-    let target = -nums[i]
-    let [start, end] = [i + 1, len - 1]
-    while (start < end) {
-      let sum = nums[start] + nums[end];
-      if (sum > target) {
-        end--;
-      } else if (sum < target) {
-        start++;
+    let low = i + 1
+    let high = nums.length - 1
+    let sum = 0 - nums[i]
+    while (low < high) {
+      if (nums[low] + nums[high] === sum) {
+        ans.push([nums[i], nums[low], nums[high]])
+        while (low < high && nums[low] === nums[low + 1]) {
+          low++
+        }
+        while (low < high && nums[high] === nums[high - 1]) {
+          high--
+        }
+        low++
+        high--
+      } else if (nums[low] + nums[high] < sum) {
+        low++
       } else {
-        ans.push([nums[i], nums[start], nums[end]]);
-        // 若相邻元素相等，直接跳过
-        while (nums[start] === nums[start + 1]) {
-            start++;
-        }
-        while (nums[end] === nums[end - 1]) {
-            end--;
-        }
-        // 常规循环递增
-        start++;
-        end--;
+        high--
       }
     }
   }
-
   return ans
 };
